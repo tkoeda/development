@@ -38,4 +38,4 @@ vendor/
 # Other
 *.bak
 *.tmp
-*.temp
+*.temp.history/
